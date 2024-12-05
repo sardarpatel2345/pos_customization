@@ -1,0 +1,25 @@
+/* Button styles */
+.button-qty {
+    background-color: blue !important;
+    color: white !important;
+}
+
+.button-discount {
+    background-color: orange !important;
+    color: white !important;
+}
+
+.button-price {
+    background-color: green !important;
+    color: white !important;
+}
+
+.button-delete {
+    background-color: red !important;
+    color: white !important;
+}
+
+.button-plus-minus {
+    background-color: gray !important;
+    color: white !important;
+}
